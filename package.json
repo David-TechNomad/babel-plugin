@@ -1,0 +1,15 @@
+{
+  "name": "babel-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.7.4",
+    "mori": "^0.3.2"
+  }
+}
